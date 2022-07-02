@@ -1,2 +1,1 @@
-# lovereign-server
-//go server 
+
